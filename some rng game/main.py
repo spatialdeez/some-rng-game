@@ -184,7 +184,7 @@ def roll_aura():
         total_luck = 1 + base_luck + special_luck
         
     #DEBUG: adjust total luck to intened luck of testing
-    total_luck = 1000
+    # total_luck = 1000
 
     auras_to_remove = [aura for aura, weight in auras.items() if weight < total_luck]
     for aura in auras_to_remove:
