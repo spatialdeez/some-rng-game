@@ -1,0 +1,1 @@
+common (1 in 2):133|rare (1 in 16):18|uncommon (1 in 4):83|rage (1 in 128):2|divinus (1 in 32):13|crystalised (1 in 64):5|glossy (1 in 1111):11|diaboli (1 in 1004):19|starry (1 in 2008):12|solar (1 in 5000):4|scorched (1 in 6699):3|lunar (1 in 5000):2|voided (1 in 1010):7|tide (1 in 7000):1|ruby (1 in 350):1|Emerald (1 in 300):1|
